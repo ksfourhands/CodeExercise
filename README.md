@@ -14,7 +14,7 @@ Use this repository as a starting point for the coding exercise.
 - CodeExercise.WebApi
   - [References CodeExercise.Core]
   - Controllers
-    - WeatherForecastController: boilerplate example controller example
+    - WeatherForecastController: boilerplate example controller left for reference
   - Pages
     - Index.cshtml: root page of WebApi app
   - Program.cs: asp.net core program
